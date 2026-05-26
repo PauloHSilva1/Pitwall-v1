@@ -1,0 +1,92 @@
+{
+  "name": "Novo Projeto",
+  "description": "Este é um novo projeto criado.",
+  "config": {
+    "display": {
+      "1": {
+        "name": "default",
+        "dados": {
+          "dado1": "null",
+          "dado2": "null",
+          "dado3": "null",
+          "dado4": "null",
+          "dado5": "null",
+          "dado6": "null"
+        },
+        "lights": {
+          "shift": {
+            "light1": 1000,
+            "light2": 2000,
+            "light3": 3000,
+            "light4": 4000,
+            "light5": 5000,
+            "light6": 7500,
+            "max": 8000
+          },
+          "warning": {
+            "case1": {
+              "color": "null",
+              "data": "null",
+              "value": 0
+            }
+          }
+        }
+      }
+    },
+    "sensores": {
+      "sla": {
+        "nome": "sla",
+        "points": [
+          {
+            "x": 22,
+            "y": 55
+          },
+          {
+            "x": 30,
+            "y": 5502
+          },
+          {
+            "x": 60,
+            "y": 80
+          },
+          {
+            "x": 10,
+            "y": 20000000
+          }
+        ],
+        "a0": 66014849.85526316,
+        "a1": -6302410.611622806,
+        "a2": 186770.5269736842,
+        "a3": -1667.7964364035088
+      }
+    },
+    "PDM": {
+      "output": {}
+    },
+    "MAQ": {
+      "1": {
+        "id": "1",
+        "nome": "default",
+        "veiculo": "Standard",
+        "dataLogger": "MAQV1",
+        "velocidade": "km/h",
+        "temperatura": "C",
+        "lapTimer": "GPS",
+        "frequenciaTotal": 0,
+        "canais": [
+          {
+            "id": "1",
+            "nome": "Novo Canal 1",
+            "tipo": "Sla",
+            "sensor": "",
+            "unidade": "",
+            "frequencia": 0,
+            "escalaBaixa": 0,
+            "escalaAlta": 0,
+            "ativado": 0
+          }
+        ]
+      }
+    }
+  }
+}

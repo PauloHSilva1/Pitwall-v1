@@ -1,0 +1,313 @@
+{
+  "name": "Novo Projeto",
+  "description": "Este é um novo projeto criado.",
+  "config": {
+    "display": {
+      "1": {
+        "name": "default",
+        "dados": {
+          "dado1": "null",
+          "dado2": "null",
+          "dado3": "null",
+          "dado4": "null",
+          "dado5": "null",
+          "dado6": "null"
+        },
+        "lights": {
+          "shift": {
+            "light1": 1000,
+            "light2": 2000,
+            "light3": 3000,
+            "light4": 4000,
+            "light5": 5000,
+            "light6": 7500,
+            "max": 8000
+          },
+          "warning": {
+            "case1": {
+              "color": "null",
+              "data": "null",
+              "value": 0
+            }
+          }
+        }
+      }
+    },
+    "sensores": {
+      "default": {
+        "nome": "default",
+        "a0": 0,
+        "a1": 0,
+        "a2": 0,
+        "a3": 0
+      }
+    },
+    "PDM": {
+      "output": {
+        "5": {
+          "id": "5",
+          "nome": "Saída 5",
+          "pin": " ",
+          "rating": 0,
+          "control": " 20",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "6": {
+          "id": "6",
+          "nome": "Saída 6",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "7": {
+          "id": "7",
+          "nome": "Saída 7",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "8": {
+          "id": "8",
+          "nome": "Saída 8",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "9": {
+          "id": "9",
+          "nome": "Saída 9",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "10": {
+          "id": "10",
+          "nome": "Saída 10",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "11": {
+          "id": "12",
+          "nome": "Saída 12",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "12": {
+          "id": "12",
+          "nome": "Saída 12",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "13": {
+          "id": "13",
+          "nome": "Saída 13",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "14": {
+          "id": "14",
+          "nome": "Saída 14",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "15": {
+          "id": "15",
+          "nome": "Saída 15",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "16": {
+          "id": "16",
+          "nome": "Saída 16",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "17": {
+          "id": "17",
+          "nome": "Saída 17",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "18": {
+          "id": "18",
+          "nome": "Saída 18",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "19": {
+          "id": "19",
+          "nome": "Saída 19",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "20": {
+          "id": "20",
+          "nome": "Saída 20",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        },
+        "21": {
+          "id": "21",
+          "nome": "Saída 21",
+          "pin": " ",
+          "rating": 0,
+          "control": " ",
+          "maxCurrente": 0,
+          "retryDelay": 0,
+          "retryCount": 0,
+          "settlingTime": 0
+        }
+      },
+      "canInputs": {
+        "1": {
+          "id": "1",
+          "name": "Novo CAN Input 1",
+          "source": "",
+          "canId": "",
+          "canType": " ",
+          "offset": 0
+        }
+      },
+      "inputs": {
+        "1": {
+          "id": "1",
+          "name": "Novo Input 1",
+          "source": "",
+          "pin": ""
+        }
+      }
+    },
+    "MAQ": {
+      "1": {
+        "id": "1",
+        "nome": "default",
+        "veiculo": "ES-14",
+        "dataLogger": "MAQV4",
+        "velocidade": "m/s",
+        "temperatura": "°F",
+        "lapTimer": "GPS",
+        "frequenciaTotal": 0,
+        "canais": [],
+        "dash": {
+          "layout": 4,
+          "sensors": [
+            "paulo",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "2": {
+        "id": "2",
+        "nome": "Nova Config 2",
+        "veiculo": "ES-17",
+        "dataLogger": "MAQV6",
+        "velocidade": "km/h",
+        "temperatura": "°C",
+        "lapTimer": "GPS",
+        "frequenciaTotal": 100,
+        "canais": [
+          {
+            "id": "1",
+            "nome": "Novo Canal 1",
+            "tipo": "",
+            "sensor": "",
+            "unidade": "",
+            "frequencia": 100,
+            "escalaBaixa": 0,
+            "escalaAlta": 0,
+            "ativado": 1
+          }
+        ]
+      }
+    },
+    "dash": {
+      "layout": 1,
+      "sensors": [
+        "paulo",
+        "paulo",
+        "Braune",
+        "",
+        "",
+        ""
+      ]
+    }
+  }
+}
